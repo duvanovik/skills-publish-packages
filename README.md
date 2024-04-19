@@ -90,6 +90,21 @@ Let's trying running it.
   <<< Author notes: Finish >>>
   Review what we learned, ask for feedback, provide next steps.
 -->
+## Evidencias
+
+### docker login
+
+![infra](https://github.com/duvanovik/skills-publish-packages/assets/42594511/901bd975-cdab-4542-8e4c-e515fc5efa88)
+
+### docker login
+![infra2](https://github.com/duvanovik/skills-publish-packages/assets/42594511/fd6ad9b9-960f-47c2-88be-2849c714f170)
+
+### docker run y docker ps
+![infra3](https://github.com/duvanovik/skills-publish-packages/assets/42594511/9258ca67-6b74-4d28-882b-46134ca120de)
+
+### Juego funcionando
+![infra4](https://github.com/duvanovik/skills-publish-packages/assets/42594511/679c6e1f-281d-4ac2-92a9-f04b662045cc)
+
 
 ## Finish
 
